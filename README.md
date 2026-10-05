@@ -45,6 +45,4 @@ The pipeline collects weather data periodically, stores the raw API responses, t
 - Use batch processing when real-time processing is not required.
 - Select technologies based on the requirements of the use case.
 
-## Note
 
-This assignment focuses on data pipeline architecture and design. The proposed pipelines are not implemented as production systems.
